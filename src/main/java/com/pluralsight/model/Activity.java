@@ -4,7 +4,8 @@ package com.pluralsight.model;
 public class Activity {
 
 	private Long id;
-	
+//	private Long id;
+
 	private String desc;
 
 	public String getDesc() {
